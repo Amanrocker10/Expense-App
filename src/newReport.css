@@ -1,0 +1,42 @@
+img{
+    margin: auto;
+    padding: 20px;
+   
+}
+
+
+.heading{
+    font-size: 13px;
+    color: mediumblue;
+    display: inline-block;
+    padding: 20px;
+
+}
+
+/* .body{
+    background-image: url(https://cdn.pixabay.com/photo/2018/08/14/13/23/ocean-3605547_1280.jpg);
+    background-repeat: no-repeat;
+  background-size: auto;
+} */
+
+
+.tab21{
+    color: mediumblue ;
+    padding: 20px;
+}
+
+.tab22{
+    padding-left: 60px;
+    display: inline-block;
+}
+
+.align-right {
+  display: flex !important;
+  justify-content: right !important;
+}
+
+
+
+.ino{
+    font-size: xx-small;
+}
