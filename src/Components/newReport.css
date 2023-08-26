@@ -1,0 +1,262 @@
+
+/* img{
+    margin: auto;
+    padding: 20px;
+   
+} */
+
+.Header{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 20px;
+    color: mediumblue;
+}
+
+.heading5{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    gap: 2em;
+    margin-top: 2em;
+    margin-right: 45em;
+}
+
+.heading5in{
+    display: flex;
+}
+
+
+/* .heading{
+    font-size: 13px;
+    color: mediumblue;
+    display: inline-block;
+    padding: 20px;
+
+} */
+
+.avatar{
+    display: inline-block;
+}
+
+.secondRow{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+
+
+.heading3{
+    color: mediumblue;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.cancelBtn{
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    margin-right: 70px;
+    margin-top: 10px;
+    font-size: 20px;
+    padding: 5px;
+    color: mediumblue;
+    background-color: white;
+   
+}
+
+
+/* New Report Content Report name, Reporting Manger, Start and end date and Department */
+
+
+.twoSet{
+    display: flex;
+    
+    
+   
+
+}
+.reponame{
+    margin: 50px;
+    margin-top: 40px;
+
+}
+
+.reportName{
+    margin-top: 30px;
+    height: 20px;
+    width: 400px;
+    padding: 10px;
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+
+.repomanager{
+     margin: 50px;
+    margin-top: 40px;
+    margin-left: 300px;
+
+}
+
+.reportingManager{
+    margin-top: 30px;
+    height: 20px;
+    width: 300px;
+    padding: 10px;
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+
+.threeSet{
+    display: flex;
+    
+}
+
+.start{
+    margin: 30px;
+    margin-left: 50px;
+}
+
+.startDate{
+    height: 30px;
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    margin-left: 45px;
+    padding: 5px;
+    font-weight: bold;
+   
+}
+
+.end{
+    margin-left: 40px;
+
+}
+
+.endDate{
+    margin-left: 20px;
+    height: 30px;
+    padding: 5px;
+    font-weight: bold;
+    border: 1px solid #aaa;
+    border-radius: 4px;
+
+}
+
+
+.dep{
+    margin-left: 300px;
+}
+
+.department{
+    display: inline-block;
+    margin: 20px;
+    width: 350px;
+    margin-left: 100px;
+    padding: 10px;
+    margin-top: 30px;
+    font-weight: bold;
+}
+
+
+
+
+.select{
+    margin: 50px;
+}
+
+
+.box-1{
+    margin: 30px;
+    border: 2px solid#aaa;
+    border-radius: 4px;
+    width: auto;
+   
+}
+
+.receiptHeading{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.receipt{
+    color: mediumblue;
+    font-size: large;
+    margin: 20px;
+}
+
+
+.table{
+    font-style: none;
+    font-weight: normal;
+    border: 1px lightblue;
+    width: fit-content;
+}
+
+
+.invoiceNo{
+    
+    font-weight: normal;
+    padding: 5px;
+    padding-left: 20px;
+    
+
+}
+
+.invoiceDate{
+    font-weight: normal;
+    padding: 0px;
+    padding-left: 90px;
+}
+
+.amount{
+    font-weight: normal;
+    padding: 5px;
+    padding-left: 120px;
+}
+
+.category{
+    font-weight: normal;
+    padding: 5px;
+    padding-left: 120px;
+}
+
+.project{
+    
+    font-weight: normal;
+    padding: 5px;
+    padding-left: 120px;
+}
+
+.receiptPhoto{
+  
+    font-weight: normal;
+    padding: 5px;
+    padding-left: 120px;
+}
+
+
+.description{
+    
+    font-weight: normal;
+    padding: 5px;
+    padding-left: 120px;
+}
+
+.action{
+     
+    font-weight: normal;
+    padding: 5px;
+    padding-left: 125px;
+}
+
+
+

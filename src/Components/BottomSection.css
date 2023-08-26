@@ -1,0 +1,27 @@
+.addUpdate{
+    background-color: mediumblue;
+    color: aliceblue;
+    margin: 20px;
+    padding: 5px;
+    border: 1px solid #fff;
+    border-radius: 4px;
+}
+
+.save{
+    margin-left: 1150px;
+    padding: 5px;
+    background-color: mediumblue;
+    color: aliceblue;
+    border: 1px solid #fff;
+    border-radius: 4px;
+
+}
+.submit{
+    margin-left: 10px;
+    padding: 5px;
+    background-color: mediumblue;
+    color: aliceblue;
+    border: 1px solid #fff;
+    border-radius: 4px;
+}
+
